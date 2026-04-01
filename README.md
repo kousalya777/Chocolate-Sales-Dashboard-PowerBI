@@ -5,6 +5,10 @@ An interactive Power BI dashboard analyzing chocolate sales performance across p
 ## Power BI File
 [Download PBIX File](https://drive.google.com/file/d/1JDXgFHa-9KU_gzh_50rSTP9eSwyZEgVz/view?usp=sharing)
 
+
+## Dashboard Preview
+![Dashboard Preview](Sales_dashboard_screenshot.png)
+
 ## Key Insights
 - Total Sales reached 25.49M
 - Total Profit reached 10.19M
@@ -30,6 +34,3 @@ An interactive Power BI dashboard analyzing chocolate sales performance across p
 - DAX
 - Power Query
 - Data Modeling
-
-## Dashboard Preview
-![Dashboard Preview](Sales_dashboard_screenshot.png)
