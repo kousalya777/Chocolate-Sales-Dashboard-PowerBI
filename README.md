@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing chocolate sales performance across products, countries, store types, profit trends, and customer insights.
 
 ## Power BI File
-[Download PBIX File]([https://drive.google.com/file/d/1JDXgFHa-9KU_gzh_50rSTP9eSwyZEgVz/view?usp=sharing])
+[Download PBIX File](https://drive.google.com/file/d/1JDXgFHa-9KU_gzh_50rSTP9eSwyZEgVz/view?usp=sharing)
 
 ## Key Insights
 - Total Sales reached 25.49M
